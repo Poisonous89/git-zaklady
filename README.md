@@ -1,6 +1,6 @@
 # Moj prvy repozitar
 
-Ahoj svet, Samo!
+Ahoj svet, Samo a Kamarat!
 
 
 ## Pozdrav
